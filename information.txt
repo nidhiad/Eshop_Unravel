@@ -1,0 +1,10 @@
+please visit http://localhost:8000 
+   Then click on Login to login as admin or customer.
+
+Below are credentials for Admin user:- 
+vips@gmail.com/12345678
+
+Below are credentials for Customer :- 
+nidhi.lad@gmail.com/11111111
+
+/database/migrations  folder has migrations. Also attached DB script file 'shopping_db'.sql
